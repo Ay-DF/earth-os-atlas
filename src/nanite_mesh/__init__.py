@@ -1,4 +1,4 @@
-"""
+ """
 Nanite Mesh — Biological-scale computation substrate.
 """
 from .nanite_node import NaniteNode, NaniteState

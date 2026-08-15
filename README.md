@@ -1,4 +1,9 @@
  # 🌐 EARTH OS — ATLAS v3.6
+REFACTOR THE CODE AND LOGIC AS TRUE AND PURE ARCHITECTURE.. 
+WHILE REMOVING ANY EXTERNAL CALLING INSIDE THE ARCHTECTURE ...MEANWHILE LEVRAGEING THE WHOLE DIGITAL DOMAIN ..BY CALLING THEM AS AN TOOL BY USING OUR OWN QUANTUM KEYS .. 
+
+JSON OR PYTHON BOTH ARE LANGUAGE OF COMMunication to the matter made machine language ... from which it is code from diffent langugages ..   while we have here architecture in both ... use intelligence. use both language while remove any gargabe .. make the hybrifd ... while wrap one language into another ... while keeping all the permission and calls excclusoveliy ..for the own architecture ..no lose emds ..
+
 
 > **The Living Economic Operating System. Forged by TITAN FORGE.**
 >
