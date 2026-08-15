@@ -1,4 +1,4 @@
-# 🌐 EARTH OS — ATLAS v3.6
+ # 🌐 EARTH OS — ATLAS v3.6
 
 > **The Living Economic Operating System. Forged by TITAN FORGE.**
 >
