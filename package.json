@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "entangle": "^0.0.1",
+    "karma": "^6.4.4",
+    "lambada": "^0.1.1",
+    "mathematics": "^0.0.4",
+    "neurons": "^1.0.114",
+    "node.js": "^0.0.1-security",
+    "python": "^0.0.4",
+    "selfheal": "^1.0.1",
+    "soul": "^1.0.0",
+    "state": "^0.2.0",
+    "unified": "^11.0.5"
+  }
+}
